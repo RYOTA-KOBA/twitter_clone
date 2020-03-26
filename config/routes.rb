@@ -7,5 +7,5 @@ Rails.application.routes.draw do
 
   get 'posts/index'
 
-  root 'posts#index'
+  root 'static_pages#index'
 end
