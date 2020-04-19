@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
  gem 'bootstrap-sass'
- gem 'bootstrap', '~>4.0.0'
+ gem 'bootstrap', '~>4.3.1'
  gem 'popper_js', '~> 1.16'
 
 # Use Capistrano for deployment
